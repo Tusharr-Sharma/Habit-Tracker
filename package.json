@@ -1,0 +1,28 @@
+{
+  "name": "habit_tracker_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Tushar Sharma",
+  "license": "ISC",
+
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "colors": "^1.4.0",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^16.1.4",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.17.3",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
