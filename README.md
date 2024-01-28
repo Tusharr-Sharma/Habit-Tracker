@@ -33,7 +33,7 @@ The Habit Tracker App is built using the following technologies:
 To run the Habit Tracker App locally, follow these steps:
 
 1. Clone the GitHub repository:
-   `git clone https://github.com/DigvijayDheer/Habit_Tracker_App.git`
+   `git clone https://github.com/Tusharr-Sharma/Habit-Tracker`
 
 2. Navigate to the project directory:
    `cd Habit_Tracker_App`
