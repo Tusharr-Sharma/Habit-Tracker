@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.habit__input-form {
+  width: 60%;
+}
+
+.habit__input-form button {
+  margin-left: 0.3rem;
+}
+
+.status__instruction {
+  font-size: 0.8rem;
+}
+
+@media screen and (max-width: 480px) {
+  .habit__input-form {
+    width: 100%;
+  }
+
+  .habit__input-form input {
+    width: 100%;
+  }
+
+  .habit__input-form button {
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0.3rem;
+  }
+}
